@@ -18,7 +18,7 @@
  * @package WordPress
  */
 
-// ** MySQL settings - You can get this info from your web host ** //
+// ** MYSQL  settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'saphax_db' );
 
@@ -61,7 +61,7 @@ define( 'NONCE_SALT',       '2;d~mp6<0^,hfS),f;>P6q&&_Q=^h9#gL^>p,HzfQI<_Vh}=T&/
  * WordPress Database Table prefix.
  *
  * You can have multiple installations in one database if you give each
- * a unique prefix. Only numbers, letters, and underscores please!
+ * a unique prefix. Only numbers, letters, and underscores please
  */
 $table_prefix = 'wp_';
 
